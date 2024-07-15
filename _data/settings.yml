@@ -1,7 +1,7 @@
 menu:
 #- {name: 'project', url: '/project'}
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Project', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
