@@ -19,5 +19,14 @@ index:
 - {name: 'In Review'}
 - {name: '[J12] Hwang, Seunghoon, Tarun Pati, Aditya Saxena, Hyunglae Lee, Sze Zheng Yong ”Safe Variable Stiffness Control for Shoulder Exoskeleton Robots.” IEEE TRANSACTIONS ON CONTROL SYSTEMS TECHNOLOGY (2024) (Under review).', url: 'https://drive.google.com/file/d/1xxsfyMs1IdQtIoTresFDfEeHvNcvx08X/view?usp=share_link'}
 
-
-
+- {name: 'Conference Paper'}
+- {name: '[C1] Hwang, S. et al. ”CHARACTERIZATION OF HUMAN SHOULDER JOINT STIFFNESS ACROSS VARIOUS ARM POSTURES AND ITS SEX DIFFERENCES”, American Society of Biomechanics, ASB, 2024.'}
+- {name: '[C2] Hwang, S., Edward Chan, Hyunglae Lee. ”Quantification of Shoulder Joint Impedance during Dynamic Motion: A Pilot Study Using a Parallel‑Actuated Shoulder Exoskeleton Robot”, 21st International Conference on Ubiquitous Robots (UR), IEEE, 2024.', url: 'https://drive.google.com/file/d/1pA4OGxxvgc-shics8iAJtdyWMIB7ZlJJ/view?usp=share_link'}
+- {name: '[C3] Pati, T.+, Hwang, S.+ and Yong, S.Z. Control Barrier Functions for Linear Continuous‑Time Input‑Delay Systems with Limited‑Horizon Previewable Disturbances. 2024 American Control Conference (ACC). IEEE, 2024. (First author equally contributed)', url: 'https://drive.google.com/file/d/1xc51M1karKl9zwLHcJpz0Fa5lLc13jNp/view?usp=share_link'}
+- {name: '[C4] Tarun Pati+, Hwang, S.H.+, Sze Zheng Yong. 2023. Preview Control Barrier Functions for Linear Continuous‑Time Systems with Previewable Disturbances. 2023 European Control Conference (ECC). IEEE, 2023. (First author equally contributed)', url: 'https://drive.google.com/file/d/1Avj7-_B74-GwwYjEqwnYb7A-GCkYIVFD/view?usp=share_link'}
+- {name: '[C5] S. Hwang, D. Chang, A. Saxena, H. Lee, ”Feasibility study for the quantification of intact human shoulder joint stiffness in various 3D arm postures with relaxed muscles,” NSF DARE Conference, Los Angeles, CA, April 2023'}
+- {name: '[C6] Seoyeon Ham, Brian Byunghyun Kang, Jihoo Kim, Seunghoon Hwang, Wansoo Kim. Development of soft variable stiffness actuator with tendon‑driven layer jamming mechanism. 2022 9th IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics (BioRob)'}
+- {name: 'In Review'}
+- {name: '[C7] Hwang, S., Pati, T., Lee H., Yong, S.Z. ”Preventing Ankle Sprain: Integrating Preview Control Barrier Functions with Human Movement Primitive Prediction” IFAC Workshop on Cyber‑Physical Human Systems (CPHS). IFAC, 2024.', url: 'https://drive.google.com/file/d/1wA2B4kFl4Z_g0zQNr_zuem7KwTBpuseu/view?usp=share_link'}
+- {name: '[C8] Pati, T.+, Hwang, S.+ and Yong, S.Z. ”Robust Control Barrier Functions with Limited‑Horizon Preview for Linear Continuous Time Input‑Delay Systems” 2024 Conference on Decision and Control (CDC). IEEE, 2024. (First author equally contributed)'}
+- {name: '[C9] Pati, T., Hwang, S. and Yong, S.Z. ”Limited Preview Control Barrier Functions for Linear Continuous‑Time Nonlinear Systems with Input Delays” 2024 Conference on Decision and Control (CDC). IEEE, 2024.'}
